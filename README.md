@@ -1,0 +1,2 @@
+# -rahulpython
+orientaation to computing
